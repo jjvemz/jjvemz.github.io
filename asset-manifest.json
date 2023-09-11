@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/frontendPortfolio/static/css/main.52eca30e.css",
+    "main.js": "/frontendPortfolio/static/js/main.45272077.js",
+    "static/media/realestate.jpg": "/frontendPortfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/SmartData.png": "/frontendPortfolio/static/media/SmartData.e3dd2319ba9ed0016a51.e3dd2319ba9ed0016a51.png",
+    "static/media/Rick_and_Morty.png": "/frontendPortfolio/static/media/Rick_and_Morty.55527593d15ba9f95749.png",
+    "static/media/c19tracker.png": "/frontendPortfolio/static/media/c19tracker.8557d386490dd56dfae8.8557d386490dd56dfae8.png",
+    "static/media/weatherReport.jpg": "/frontendPortfolio/static/media/weatherReport.c67f7ec9f6d2422dee74.c67f7ec9f6d2422dee74.jpg",
+    "static/media/workImg.jpeg": "/frontendPortfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/frontendPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/frontendPortfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/python.png": "/frontendPortfolio/static/media/python.f22d1fce7c62d8e9fe76.png",
+    "static/media/node.png": "/frontendPortfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/frontendPortfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/frontendPortfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/frontendPortfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/frontendPortfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/frontendPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/frontendPortfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/freetogame.jpeg": "/frontendPortfolio/static/media/freetogame.f322668cff193694e44e.jpeg",
+    "static/media/javascript.png": "/frontendPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/frontendPortfolio/index.html",
+    "main.52eca30e.css.map": "/frontendPortfolio/static/css/main.52eca30e.css.map",
+    "main.45272077.js.map": "/frontendPortfolio/static/js/main.45272077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52eca30e.css",
+    "static/js/main.45272077.js"
+  ]
+}
