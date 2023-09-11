@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.52eca30e.css",
-    "main.js": "/static/js/main.b971df1c.js",
+    "main.js": "/static/js/main.ffd9220a.js",
     "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/SmartData.png": "/static/media/SmartData.e3dd2319ba9ed0016a51.e3dd2319ba9ed0016a51.png",
     "static/media/Rick_and_Morty.png": "/static/media/Rick_and_Morty.55527593d15ba9f95749.png",
@@ -22,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.52eca30e.css.map": "/static/css/main.52eca30e.css.map",
-    "main.b971df1c.js.map": "/static/js/main.b971df1c.js.map"
+    "main.ffd9220a.js.map": "/static/js/main.ffd9220a.js.map"
   },
   "entrypoints": [
     "static/css/main.52eca30e.css",
-    "static/js/main.b971df1c.js"
+    "static/js/main.ffd9220a.js"
   ]
 }
